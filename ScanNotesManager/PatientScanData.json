@@ -1,0 +1,91 @@
+[
+  {
+    "scanID": 67890,
+    "scanType": "CT",
+    "date": "2025-03-10T00:00:00",
+    "anatomicalRegion": "Chest",
+    "findings": "Nodular opacities noted in the right lower lobe, suspicious for pneumonia.",
+    "notes": [
+      {
+        "title": "Patient Symptoms",
+        "content": "Patient presents with persistent cough and fever for 3 days."
+      },
+      {
+        "title": "Medical History",
+        "content": "No significant past medical history of respiratory issues."
+      }
+    ]
+  },
+  {
+    "scanID": 11223,
+    "scanType": "X-Ray",
+    "date": "2025-01-15T00:00:00",
+    "anatomicalRegion": "Left Foot",
+    "findings": "Hairline fracture identified in the 5th metatarsal.",
+    "notes": [
+      {
+        "title": "Injury Details",
+        "content": "Patient reports twisting ankle during sports activity."
+      },
+      {
+        "title": "Physical Examination",
+        "content": "Swelling and tenderness noted over the lateral aspect of the left foot."
+      }
+    ]
+  },
+  {
+    "scanID": 44556,
+    "scanType": "Ultrasound",
+    "date": "2025-06-01T00:00:00",
+    "anatomicalRegion": "Abdomen",
+    "findings": "Gallstones present within the gallbladder. No signs of acute cholecystitis.",
+    "notes": [
+      {
+        "title": "Clinical History",
+        "content": "Patient has a history of right upper quadrant pain after fatty meals."
+      },
+      {
+        "title": "Dietary Habits",
+        "content": "Patient reports frequent consumption of high-fat foods."
+      }
+    ]
+  },
+  {
+    "scanID": 77889,
+    "scanType": "MRI",
+    "date": "2025-04-20T00:00:00",
+    "anatomicalRegion": "Lumbar Spine",
+    "findings": "Disc protrusion at L4-L5 causing mild central canal stenosis.",
+    "notes": [
+      {
+        "title": "Symptoms",
+        "content": "Patient reports lower back pain radiating down the left leg."
+      },
+      {
+        "title": "Treatment History",
+        "content": "Previous attempts at physical therapy provided temporary relief."
+      }
+    ]
+  },
+  {
+    "scanID": 99001,
+    "scanType": "PET Scan",
+    "date": "2025-05-28T00:00:00",
+    "anatomicalRegion": "Whole Body",
+    "findings": "Increased metabolic activity in the right axillary lymph node, concerning for malignancy.",
+    "notes": [
+      {
+        "title": "Reason for Scan",
+        "content": "Follow-up scan for previously diagnosed breast cancer."
+      },
+      {
+        "title": "Previous Treatment",
+        "content": "Patient underwent chemotherapy and radiation therapy 6 months prior."
+      },
+      {
+        "title": "Symptoms",
+        "content": "Patient reports lower back pain radiating down the left leg."
+      }
+    ]
+  }
+]
